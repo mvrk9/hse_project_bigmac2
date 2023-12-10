@@ -1,0 +1,3 @@
+Correlation coefficient: -0.06544177857750072
+p-value: 0.014820023506269807
+Reject the null hypothesis - Price of Big Mac depends on GDP per capita
